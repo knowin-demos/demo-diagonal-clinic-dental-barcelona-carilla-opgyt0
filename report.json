@@ -1,0 +1,101 @@
+{
+  "empresa": "Diagonal Clinic Dental Barcelona | Carillas Dentales | Ortodoncia Invisible",
+  "web": "https://diagonalclinicdental.com",
+  "sector": "salud",
+  "builder": "elementor",
+  "fecha": "2026-04-25T14:13:44.098Z",
+  "templateVersion": "v9-skin-viral",
+  "aiModel": "skin-overlay-viral",
+  "aiCost": "$0.00",
+  "cssPersonalized": true,
+  "cssApproach": "skin-overlay-viral",
+  "philosophy": "CONTENIDO_INTACTO + APARIENCIA_PREMIUM + COMPONENTES_VIRALES",
+  "verify": {
+    "passed": true,
+    "issues": [],
+    "warnings": [],
+    "sizeKB": 188,
+    "checksRun": 12,
+    "checksPassed": 12
+  },
+  "cssSelectorsUsed": {
+    "sections": ".elementor-top-section,.e-con:not(.e-con-inner)",
+    "cards": ".elementor-widget-icon-box,.elementor-widget-image-box,.elementor-widget-flip-box,.elementor-widget-call-to-action,.elementor-widget-price-table,.elementor-widget-testimonial,.elementor-widget-posts,.elementor-widget-portfolio",
+    "buttons": ".elementor-widget-button a.elementor-button,.elementor-widget-button .elementor-button-link",
+    "nav": ".elementor-sticky--active,.elementor-location-header.elementor-sticky"
+  },
+  "siteAnalysis": {
+    "builder": "elementor",
+    "fonts": [
+      "inherit"
+    ],
+    "colors": [
+      "#fff",
+      "#000000",
+      "#abb8c3",
+      "#ffffff",
+      "#f78da7"
+    ],
+    "hasStickyHeader": false,
+    "hasTestimonials": true,
+    "hasSlider": true,
+    "hasGallery": true,
+    "imgCount": 28,
+    "formCount": 1
+  },
+  "improvements": [
+    "URLs relativas → absolutas (base: https://diagonalclinicdental.com)",
+    "Eliminados scripts de tracking",
+    "Skin Overlay Premium (tipografía, border-radius, sombras, scrollbar)",
+    "Banner demo + Sticky Nav inteligente con progress",
+    "Componentes virales: Tel Tooltip, Back-to-Top, Lightbox automático",
+    "25 imgs lazy loading",
+    "6 hero imgs con fetchpriority=high"
+  ],
+  "skinOverlay": [
+    "Tipografía Manrope + Inter (premium 2026)",
+    "Border-radius 14px en imágenes y tarjetas",
+    "Sombras multicapa (efecto Apple)",
+    "Background sutil con gradiente branded",
+    "Scrollbar premium con colores del sector",
+    "Selección de texto branded",
+    "Scroll reveal secciones (opacity:0.3 failsafe)",
+    "Image zoom en hover",
+    "Input focus glow branded",
+    "Botones con hover elevación"
+  ],
+  "viralComponents": [
+    "Sticky Nav inteligente con progress bar (estilo Stripe)",
+    "Tooltip animado en teléfonos (Llamar ahora)",
+    "Smart Back-to-Top con progress circular",
+    "Lightbox automático en imágenes grandes",
+    "Demo banner inline"
+  ],
+  "preservedContent": "TEXTO INTACTO, ESTRUCTURA INTACTA, POSICIONES INTACTAS",
+  "extractedData": {
+    "phone": "643881200",
+    "email": "lluis@docmedia.es",
+    "address": "C/ Val\\u00e8ncia 340",
+    "jsonLdFound": false
+  },
+  "performance": {
+    "lazyLoading": 25,
+    "webpConversion": 0,
+    "fontOptimization": "bunny-fonts",
+    "trackingRemoved": true
+  },
+  "seo": {
+    "metaTags": {
+      "openGraph": "added_missing",
+      "geoTags": "added"
+    },
+    "schemaOrg": {
+      "localBusiness": "MedicalBusiness",
+      "webSite": "added",
+      "faqPage": "in_nosotros_page"
+    },
+    "content": {
+      "altTexts": "3 fixed"
+    }
+  }
+}
